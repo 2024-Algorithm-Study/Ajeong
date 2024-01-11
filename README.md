@@ -20,4 +20,16 @@
       <a href="https://github.com/2024-Algorithm-Study/Ajeong/blob/main/1%EC%A3%BC%EC%B0%A8/%EB%AC%B8%EC%84%9C%20%EA%B2%80%EC%83%89.java">문서 검색.java</a>
       <br/>
     </td>
+  </tr>
+  <tr align = "center">
+    <td>2주차</td>
+    <td>
+      <a href="https://ajeong7038.tistory.com/33">구현 유형</a>
+    </td>
+    <td>01.10-01.16</td>
+    <td>
+      <a href="https://github.com/2024-Algorithm-Study/Ajeong/blob/main/2%EC%A3%BC%EC%B0%A8/%EB%B0%B0%EC%97%B4%20%EB%8F%8C%EB%A6%AC%EA%B8%B0.java">배열 돌리기.java</a>
+      <br/>
+    </td>
+  </tr>
 </table>
