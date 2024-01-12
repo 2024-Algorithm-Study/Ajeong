@@ -27,8 +27,10 @@
       <a href="https://ajeong7038.tistory.com/33">구현 유형</a>
     </td>
     <td>01.10-01.16</td>
-    <td>
+    <td> 
       <a href="https://github.com/2024-Algorithm-Study/Ajeong/blob/main/2%EC%A3%BC%EC%B0%A8/%EB%B0%B0%EC%97%B4%20%EB%8F%8C%EB%A6%AC%EA%B8%B0.java">배열 돌리기.java</a>
+      <br/>
+      <a href="https://github.com/2024-Algorithm-Study/Ajeong/blob/main/2%EC%A3%BC%EC%B0%A8/%EB%8B%AC%ED%8C%BD%EC%9D%B4.java">달팽이.java</a>
       <br/>
     </td>
   </tr>
