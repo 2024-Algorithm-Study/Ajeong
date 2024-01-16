@@ -32,6 +32,8 @@
       <br/>
       <a href="https://github.com/2024-Algorithm-Study/Ajeong/blob/main/2%EC%A3%BC%EC%B0%A8/%EB%8B%AC%ED%8C%BD%EC%9D%B4.java">달팽이.java</a>
       <br/>
+      <a href="https://github.com/2024-Algorithm-Study/Ajeong/blob/main/2%EC%A3%BC%EC%B0%A8/%EB%B6%84%EC%88%98%20%EC%B0%BE%EA%B8%B0.java">분수 찾기.java</a>
+      <br/>
     </td>
   </tr>
 </table>
