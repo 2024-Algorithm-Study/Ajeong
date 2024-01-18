@@ -10,6 +10,7 @@
     <td><b>날짜</td>
     <td><b>코드</td>
   </tr>
+      
   <tr align = "center">
     <td>1주차</td>
     <td>
@@ -21,6 +22,7 @@
       <br/>
     </td>
   </tr>
+      
   <tr align = "center">
     <td>2주차</td>
     <td>
@@ -36,4 +38,17 @@
       <br/>
     </td>
   </tr>
+      
+  <tr align = "center">
+    <td>3주차</td>
+    <td>
+      <a href="https://ajeong7038.tistory.com/35">스택과 큐 자료구조</a>
+    </td>
+    <td>01.17-01.23</td>
+    <td>
+      <a href="https://github.com/2024-Algorithm-Study/Ajeong/blob/main/3%EC%A3%BC%EC%B0%A8/%EB%8B%A8%EC%96%B4%20%EB%92%A4%EC%A7%91%EA%B8%B0.java">쇠막대기.java</a>
+      <br/>
+    </td>
+  </tr>
+  
 </table>
