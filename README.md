@@ -1,6 +1,3 @@
-## PLAN
-- 매일 한 문제씩 푸는 것을 목표로 합니다
-
 ## STUDY
 
 <table align = "center">
@@ -61,6 +58,17 @@
     <td>01.24-01.30</td>
     <td>
       <a href="https://github.com/2024-Algorithm-Study/Ajeong/blob/main/4%EC%A3%BC%EC%B0%A8/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%88%98%EC%97%85%20-%20%EB%B3%91%ED%95%A9%20%EC%A0%95%EB%A0%AC%201.java">알고리즘 수업 - 병합 정렬 1.java</a>
+    </td>
+  </tr>
+
+  <tr align = "center">
+    <td>5주차</td>
+    <td>
+      <a href="https://ajeong7038.tistory.com/39">DFS & BFS 알고리즘</a>
+    </td>
+    <td>01.31-02.06</td>
+    <td>
+      <a href="https://github.com/2024-Algorithm-Study/Ajeong/blob/main/5%EC%A3%BC%EC%B0%A8/DFS%EC%99%80%20BFS.java">DFS와 BFS.java</a>
     </td>
   </tr>
   
